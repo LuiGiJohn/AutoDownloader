@@ -1,0 +1,52 @@
+C:\Users\james\documents\visual studio 2010\Projects\ofp2-sync\ofp2-sync\bin\Release\ofp2-sync.exe
+C:\Users\james\documents\visual studio 2010\Projects\ofp2-sync\ofp2-sync\bin\Release\ofp2-sync.pdb
+C:\Users\james\documents\visual studio 2010\Projects\ofp2-sync\ofp2-sync\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\james\documents\visual studio 2010\Projects\ofp2-sync\ofp2-sync\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\james\documents\visual studio 2010\Projects\ofp2-sync\ofp2-sync\obj\x86\Release\ofp2_sync.Form1.resources
+C:\Users\james\documents\visual studio 2010\Projects\ofp2-sync\ofp2-sync\obj\x86\Release\ofp2_sync.Properties.Resources.resources
+C:\Users\james\documents\visual studio 2010\Projects\ofp2-sync\ofp2-sync\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\james\documents\visual studio 2010\Projects\ofp2-sync\ofp2-sync\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\james\documents\visual studio 2010\Projects\ofp2-sync\ofp2-sync\obj\x86\Release\ofp2-sync.exe
+C:\Users\james\documents\visual studio 2010\Projects\ofp2-sync\ofp2-sync\obj\x86\Release\ofp2-sync.pdb
+C:\Users\jamesb\Downloads\ofp2-sync\ofp2-sync\ofp2-sync\obj\x86\Release\ofp2-sync.exe
+C:\Users\jamesb\Downloads\ofp2-sync\ofp2-sync\ofp2-sync\obj\x86\Release\ofp2-sync.pdb
+C:\Users\jamesb\Downloads\New folder\ofp2-sync\ofp2-sync\ofp2-sync\obj\x86\Release\ofp2-sync.exe
+C:\Users\jamesb\Downloads\New folder\ofp2-sync\ofp2-sync\ofp2-sync\obj\x86\Release\ofp2-sync.pdb
+C:\Users\jamesb\Downloads\New folder\ofp2-sync\ofp2-sync\ofp2-sync\bin\Release\ofp2-sync.exe
+C:\Users\jamesb\Downloads\New folder\ofp2-sync\ofp2-sync\ofp2-sync\bin\Release\ofp2-sync.pdb
+C:\Users\jamesb\Downloads\New folder\ofp2-sync\ofp2-sync\ofp2-sync\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\jamesb\Downloads\New folder\ofp2-sync\ofp2-sync\ofp2-sync\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\jamesb\Downloads\New folder\ofp2-sync\ofp2-sync\ofp2-sync\obj\x86\Release\ofp2_sync.Form1.resources
+C:\Users\jamesb\Downloads\New folder\ofp2-sync\ofp2-sync\ofp2-sync\obj\x86\Release\ofp2_sync.Properties.Resources.resources
+C:\Users\jamesb\Downloads\New folder\ofp2-sync\ofp2-sync\ofp2-sync\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\jamesb\Downloads\New folder\ofp2-sync\ofp2-sync\ofp2-sync\obj\x86\Release\ResGen.write.1.tlog
+I:\ofp2-sync\ofp2-sync\ofp2-sync\bin\Release\CommunityDLC.exe
+I:\ofp2-sync\ofp2-sync\ofp2-sync\bin\Release\CommunityDLC.pdb
+I:\ofp2-sync\ofp2-sync\ofp2-sync\bin\Release\ICSharpCode.SharpZipLib.dll
+I:\ofp2-sync\ofp2-sync\ofp2-sync\obj\x86\Release\ResolveAssemblyReference.cache
+I:\ofp2-sync\ofp2-sync\ofp2-sync\obj\x86\Release\ofp2_sync.Form1.resources
+I:\ofp2-sync\ofp2-sync\ofp2-sync\obj\x86\Release\ofp2_sync.Properties.Resources.resources
+I:\ofp2-sync\ofp2-sync\ofp2-sync\obj\x86\Release\ResGen.read.1.tlog
+I:\ofp2-sync\ofp2-sync\ofp2-sync\obj\x86\Release\ResGen.write.1.tlog
+I:\ofp2-sync\ofp2-sync\ofp2-sync\obj\x86\Release\CommunityDLC.exe
+I:\ofp2-sync\ofp2-sync\ofp2-sync\obj\x86\Release\CommunityDLC.pdb
+I:\ofp2-sync\ofp2-sync - Copy\ofp2-sync\obj\x86\Release\CommunityDLC.exe
+I:\ofp2-sync\ofp2-sync - Copy\ofp2-sync\obj\x86\Release\CommunityDLC.pdb
+I:\ofp2-sync\ofp2-sync - Copy\ofp2-sync\bin\Release\CommunityDLC.exe
+I:\ofp2-sync\ofp2-sync - Copy\ofp2-sync\bin\Release\CommunityDLC.pdb
+I:\ofp2-sync\ofp2-sync - Copy\ofp2-sync\bin\Release\ICSharpCode.SharpZipLib.dll
+I:\ofp2-sync\ofp2-sync - Copy\ofp2-sync\obj\x86\Release\ResolveAssemblyReference.cache
+I:\ofp2-sync\ofp2-sync - Copy\ofp2-sync\obj\x86\Release\ofp2_sync.Form1.resources
+I:\ofp2-sync\ofp2-sync - Copy\ofp2-sync\obj\x86\Release\ofp2_sync.Properties.Resources.resources
+I:\ofp2-sync\ofp2-sync - Copy\ofp2-sync\obj\x86\Release\ResGen.read.1.tlog
+I:\ofp2-sync\ofp2-sync - Copy\ofp2-sync\obj\x86\Release\ResGen.write.1.tlog
+F:\Community DLC Updater 1.05\ofp2-sync\obj\x86\Release\CommunityDLC.exe
+F:\Community DLC Updater 1.05\ofp2-sync\obj\x86\Release\CommunityDLC.pdb
+F:\Community DLC Updater 1.05\ofp2-sync\bin\Release\CommunityDLC.exe
+F:\Community DLC Updater 1.05\ofp2-sync\bin\Release\CommunityDLC.pdb
+F:\Community DLC Updater 1.05\ofp2-sync\bin\Release\ICSharpCode.SharpZipLib.dll
+F:\Community DLC Updater 1.05\ofp2-sync\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Community DLC Updater 1.05\ofp2-sync\obj\x86\Release\ofp2_sync.Form1.resources
+F:\Community DLC Updater 1.05\ofp2-sync\obj\x86\Release\ofp2_sync.Properties.Resources.resources
+F:\Community DLC Updater 1.05\ofp2-sync\obj\x86\Release\ResGen.read.1.tlog
+F:\Community DLC Updater 1.05\ofp2-sync\obj\x86\Release\ResGen.write.1.tlog
